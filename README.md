@@ -8,7 +8,7 @@ Traktor template mapping for Allen &amp; Heath - Xone:K2 2 Decks with 2 FX units
 
 ## How to install
 
-Download mapping file in this [link](https://raw.githubusercontent.com/Binomio/Traktor-Allen-Heath-Xone-K2-mapping-2-Decks-with-2-FX-units/master/XONE-K2.tsi) and open with Traktor Pro.
+Download mapping file in this [link](http://bit.ly/traktor-K2-mapping) and open with Traktor Pro.
 
 ## Contributing
 
